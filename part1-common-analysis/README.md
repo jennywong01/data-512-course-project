@@ -9,9 +9,37 @@ More and more frequently summers in the western US have been characterized by wi
 # Data Files
 ## USGS_Wildland_Fire_Combined_Dataset.json
 - The source of this data is [here](https://www.sciencebase.gov/catalog/item/61aa537dd34eb622f699df81).
-- This dataset is large (2.17GB), so I'm not pushing this dataset in my repository.
+- This dataset is large (2.17GB), so I'm not pushing this dataset into my repository.
 - This data file is in GeoJSON format. The fire information is stored under the key `features`. More data exploration can be found in the notebook `part1_common_analysis.ipynb`. For each fire object under `features`, only a few fields are used for analysis:
   - *attributes*: all the attributes of the fire
     - *Fire_Year*: the year when the fire occurred
     - *GIS_Acres*: the size of the fire
   - *geometry*: the geometry of the fire. The first *ring* of this field is used to calculate the distance between the city and the fire
+
+# Intermediate Data Files
+## df_attributes_estimator.csv
+- This data file is produced in the [notebook](https://github.com/jennywong01/data-512-course-project/blob/main/part1-common-analysis/part1_common_analysis.ipynb) under the current folder.
+- This dataset is 7.1MB, and it is an aggregated dataset with 5 columns.
+- This data file is in CSV format. The attributes include:
+  - *Fire_Year*: the year when the fire happened
+  - *GIS_Acres*: the size of the fire in acre
+  - *Avg_Distance*: the distance between the fire and Cedar City, Utah
+  - *Smoke_Estimate*: the smoke estimate calculated using Fire_Year, GIS_Acres, and Avg_Distance
+  - *Scaled_Smoke_Estimate*: the scaled smoke estimate with a range from 0-500
+
+## df_average_aqi.csv
+- The source of this data is [here](https://aqs.epa.gov/aqsweb/documents/data_api.html#monitors).
+- This data file is produced in the [notebook](https://github.com/jennywong01/data-512-course-project/blob/main/part1-common-analysis/epa_air_quality_history.ipynb) under the current folder.
+- This dataset is only 945 bytes, as it is an aggregated dataset with 2 columns.
+- This data file is in CSV format. The attributes include:
+  - *year*: the year when the AQI is collected
+  - *aqi*: the average AQI of all available parameters of the year
+
+## df_average_param_aqi.csv
+- The source of this data is [here](https://aqs.epa.gov/aqsweb/documents/data_api.html#monitors).
+- This data file is produced in the [notebook](https://github.com/jennywong01/data-512-course-project/blob/main/part1-common-analysis/epa_air_quality_history.ipynb) under the current folder.
+- This dataset is only 6KB, as it is an aggregated dataset with 3 columns.
+- This data file is in CSV format. The attributes include:
+  - *year*: the year when the AQI is collected
+  - *parameter*: the specific name of the AQI parameter
+  - *aqi*: the average AQI of all available parameters of the year
