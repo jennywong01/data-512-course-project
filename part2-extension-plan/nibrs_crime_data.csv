@@ -1,0 +1,251 @@
+data_year,offense_code,offense_name,offense_count
+2000,11A,Rape,2
+2000,220,Burglary/Breaking & Entering,3
+2000,23D,Theft From Building,8
+2000,23E,Theft From Coin-Operated Machine or Device,1
+2000,23F,Theft From Motor Vehicle,2
+2000,23G,Theft of Motor Vehicle Parts or Accessories,1
+2000,23H,All Other Larceny,13
+2000,240,Motor Vehicle Theft,1
+2000,280,Stolen Property Offenses,1
+2000,290,Destruction/Damage/Vandalism of Property,12
+2001,13B,Simple Assault,2
+2001,220,Burglary/Breaking & Entering,3
+2001,23D,Theft From Building,14
+2001,23F,Theft From Motor Vehicle,4
+2001,23H,All Other Larceny,4
+2001,290,Destruction/Damage/Vandalism of Property,11
+2001,35A,Drug/Narcotic Violations,1
+2002,13B,Simple Assault,1
+2002,23D,Theft From Building,12
+2002,23F,Theft From Motor Vehicle,6
+2002,23H,All Other Larceny,3
+2002,250,Counterfeiting/Forgery,2
+2002,26A,False Pretenses/Swindle/Confidence Game,1
+2002,290,Destruction/Damage/Vandalism of Property,7
+2002,520,Weapon Law Violations,1
+2003,13B,Simple Assault,2
+2003,13C,Intimidation,1
+2003,200,Arson,1
+2003,220,Burglary/Breaking & Entering,1
+2003,23D,Theft From Building,15
+2003,23E,Theft From Coin-Operated Machine or Device,1
+2003,23F,Theft From Motor Vehicle,3
+2003,23G,Theft of Motor Vehicle Parts or Accessories,1
+2003,23H,All Other Larceny,1
+2003,240,Motor Vehicle Theft,2
+2003,280,Stolen Property Offenses,1
+2003,290,Destruction/Damage/Vandalism of Property,12
+2003,35B,Drug Equipment Violations,1
+2004,13A,Aggravated Assault,3
+2004,13B,Simple Assault,1
+2004,220,Burglary/Breaking & Entering,3
+2004,23D,Theft From Building,8
+2004,23F,Theft From Motor Vehicle,1
+2004,240,Motor Vehicle Theft,1
+2004,26C,Impersonation,1
+2004,280,Stolen Property Offenses,1
+2004,290,Destruction/Damage/Vandalism of Property,14
+2004,35A,Drug/Narcotic Violations,1
+2004,35B,Drug Equipment Violations,1
+2005,13B,Simple Assault,4
+2005,23D,Theft From Building,21
+2005,23F,Theft From Motor Vehicle,2
+2005,23H,All Other Larceny,1
+2005,240,Motor Vehicle Theft,1
+2005,290,Destruction/Damage/Vandalism of Property,10
+2005,35A,Drug/Narcotic Violations,1
+2005,35B,Drug Equipment Violations,1
+2006,13B,Simple Assault,1
+2006,220,Burglary/Breaking & Entering,2
+2006,23D,Theft From Building,9
+2006,23F,Theft From Motor Vehicle,1
+2006,23H,All Other Larceny,2
+2006,35A,Drug/Narcotic Violations,1
+2008,13B,Simple Assault,1
+2008,200,Arson,1
+2008,220,Burglary/Breaking & Entering,4
+2008,23B,Purse-snatching,1
+2008,23D,Theft From Building,1
+2008,23E,Theft From Coin-Operated Machine or Device,1
+2008,23F,Theft From Motor Vehicle,3
+2008,23H,All Other Larceny,11
+2008,240,Motor Vehicle Theft,1
+2008,290,Destruction/Damage/Vandalism of Property,30
+2008,35A,Drug/Narcotic Violations,1
+2011,13B,Simple Assault,1
+2011,220,Burglary/Breaking & Entering,1
+2011,23D,Theft From Building,1
+2011,23F,Theft From Motor Vehicle,1
+2011,23H,All Other Larceny,1
+2011,290,Destruction/Damage/Vandalism of Property,2
+2011,35A,Drug/Narcotic Violations,3
+2012,11D,Fondling,1
+2012,13B,Simple Assault,3
+2012,23B,Purse-snatching,1
+2012,23F,Theft From Motor Vehicle,1
+2012,23H,All Other Larceny,12
+2012,290,Destruction/Damage/Vandalism of Property,6
+2012,35A,Drug/Narcotic Violations,2
+2013,13B,Simple Assault,1
+2013,200,Arson,1
+2013,220,Burglary/Breaking & Entering,1
+2013,23C,Shoplifting,1
+2013,23D,Theft From Building,2
+2013,23F,Theft From Motor Vehicle,2
+2013,23H,All Other Larceny,9
+2013,290,Destruction/Damage/Vandalism of Property,8
+2013,370,Pornography/Obscene Material,2
+2014,11D,Fondling,2
+2014,13B,Simple Assault,1
+2014,220,Burglary/Breaking & Entering,2
+2014,23D,Theft From Building,1
+2014,23F,Theft From Motor Vehicle,6
+2014,23H,All Other Larceny,3
+2014,240,Motor Vehicle Theft,1
+2014,290,Destruction/Damage/Vandalism of Property,5
+2014,35A,Drug/Narcotic Violations,3
+2015,11A,Rape,1
+2015,11D,Fondling,5
+2015,13B,Simple Assault,1
+2015,200,Arson,1
+2015,220,Burglary/Breaking & Entering,3
+2015,23D,Theft From Building,2
+2015,23H,All Other Larceny,6
+2015,26B,Credit Card/Automated Teller Machine Fraud,1
+2015,290,Destruction/Damage/Vandalism of Property,16
+2015,35A,Drug/Narcotic Violations,1
+2015,520,Weapon Law Violations,1
+2016,11D,Fondling,2
+2016,13B,Simple Assault,1
+2016,220,Burglary/Breaking & Entering,2
+2016,23D,Theft From Building,4
+2016,23F,Theft From Motor Vehicle,1
+2016,23H,All Other Larceny,8
+2016,290,Destruction/Damage/Vandalism of Property,5
+2016,35A,Drug/Narcotic Violations,7
+2016,370,Pornography/Obscene Material,1
+2016,520,Weapon Law Violations,1
+2017,11D,Fondling,1
+2017,13B,Simple Assault,2
+2017,220,Burglary/Breaking & Entering,1
+2017,23C,Shoplifting,1
+2017,23D,Theft From Building,2
+2017,23H,All Other Larceny,4
+2017,290,Destruction/Damage/Vandalism of Property,2
+2017,35A,Drug/Narcotic Violations,1
+2018,11D,Fondling,1
+2018,220,Burglary/Breaking & Entering,2
+2018,23D,Theft From Building,1
+2018,23F,Theft From Motor Vehicle,3
+2018,23H,All Other Larceny,9
+2018,240,Motor Vehicle Theft,1
+2018,290,Destruction/Damage/Vandalism of Property,6
+2018,35A,Drug/Narcotic Violations,2
+2019,100,Kidnapping/Abduction,1
+2019,11A,Rape,3
+2019,11B,Sodomy,1
+2019,11D,Fondling,1
+2019,13B,Simple Assault,10
+2019,13C,Intimidation,11
+2019,220,Burglary/Breaking & Entering,10
+2019,23C,Shoplifting,1
+2019,23D,Theft From Building,5
+2019,23F,Theft From Motor Vehicle,3
+2019,23G,Theft of Motor Vehicle Parts or Accessories,2
+2019,23H,All Other Larceny,15
+2019,240,Motor Vehicle Theft,3
+2019,26A,False Pretenses/Swindle/Confidence Game,2
+2019,290,Destruction/Damage/Vandalism of Property,16
+2019,35A,Drug/Narcotic Violations,23
+2019,35B,Drug Equipment Violations,19
+2019,520,Weapon Law Violations,3
+2020,09A,Murder and Nonnegligent Manslaughter,4
+2020,100,Kidnapping/Abduction,5
+2020,11A,Rape,10
+2020,11C,Sexual Assault With An Object,3
+2020,11D,Fondling,29
+2020,120,Robbery,1
+2020,13A,Aggravated Assault,16
+2020,13B,Simple Assault,99
+2020,13C,Intimidation,60
+2020,210,Extortion/Blackmail,1
+2020,220,Burglary/Breaking & Entering,52
+2020,23B,Purse-snatching,5
+2020,23C,Shoplifting,48
+2020,23F,Theft From Motor Vehicle,63
+2020,23G,Theft of Motor Vehicle Parts or Accessories,15
+2020,23H,All Other Larceny,140
+2020,240,Motor Vehicle Theft,35
+2020,250,Counterfeiting/Forgery,3
+2020,26A,False Pretenses/Swindle/Confidence Game,52
+2020,26B,Credit Card/Automated Teller Machine Fraud,9
+2020,26F,Identity Theft,4
+2020,280,Stolen Property Offenses,2
+2020,290,Destruction/Damage/Vandalism of Property,140
+2020,35A,Drug/Narcotic Violations,136
+2020,35B,Drug Equipment Violations,112
+2020,36B,Statutory Rape,1
+2020,370,Pornography/Obscene Material,3
+2020,510,Bribery,1
+2020,520,Weapon Law Violations,23
+2021,100,Kidnapping/Abduction,2
+2021,11A,Rape,11
+2021,11B,Sodomy,2
+2021,11C,Sexual Assault With An Object,2
+2021,11D,Fondling,39
+2021,120,Robbery,4
+2021,13A,Aggravated Assault,21
+2021,13B,Simple Assault,130
+2021,13C,Intimidation,52
+2021,200,Arson,2
+2021,210,Extortion/Blackmail,2
+2021,220,Burglary/Breaking & Entering,47
+2021,23B,Purse-snatching,2
+2021,23C,Shoplifting,63
+2021,23D,Theft From Building,11
+2021,23F,Theft From Motor Vehicle,55
+2021,23G,Theft of Motor Vehicle Parts or Accessories,20
+2021,23H,All Other Larceny,95
+2021,240,Motor Vehicle Theft,18
+2021,250,Counterfeiting/Forgery,3
+2021,26A,False Pretenses/Swindle/Confidence Game,60
+2021,26B,Credit Card/Automated Teller Machine Fraud,8
+2021,26F,Identity Theft,4
+2021,280,Stolen Property Offenses,3
+2021,290,Destruction/Damage/Vandalism of Property,140
+2021,35A,Drug/Narcotic Violations,174
+2021,35B,Drug Equipment Violations,115
+2021,36B,Statutory Rape,3
+2021,370,Pornography/Obscene Material,2
+2021,520,Weapon Law Violations,32
+2021,720,Animal Cruelty,3
+2022,100,Kidnapping/Abduction,8
+2022,11A,Rape,13
+2022,11B,Sodomy,3
+2022,11C,Sexual Assault With An Object,2
+2022,11D,Fondling,51
+2022,120,Robbery,2
+2022,13A,Aggravated Assault,13
+2022,13B,Simple Assault,131
+2022,13C,Intimidation,75
+2022,200,Arson,5
+2022,220,Burglary/Breaking & Entering,42
+2022,23B,Purse-snatching,2
+2022,23C,Shoplifting,74
+2022,23D,Theft From Building,9
+2022,23F,Theft From Motor Vehicle,55
+2022,23G,Theft of Motor Vehicle Parts or Accessories,12
+2022,23H,All Other Larceny,134
+2022,240,Motor Vehicle Theft,28
+2022,250,Counterfeiting/Forgery,4
+2022,26A,False Pretenses/Swindle/Confidence Game,91
+2022,26B,Credit Card/Automated Teller Machine Fraud,8
+2022,26F,Identity Theft,3
+2022,280,Stolen Property Offenses,4
+2022,290,Destruction/Damage/Vandalism of Property,146
+2022,35A,Drug/Narcotic Violations,207
+2022,35B,Drug Equipment Violations,144
+2022,370,Pornography/Obscene Material,8
+2022,520,Weapon Law Violations,33
+2022,720,Animal Cruelty,1
