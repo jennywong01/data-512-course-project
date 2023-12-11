@@ -43,3 +43,6 @@ More and more frequently summers in the western US have been characterized by wi
   - *year*: the year when the AQI is collected
   - *parameter*: the specific name of the AQI parameter
   - *aqi*: the average AQI of all available parameters of the year
+ 
+# Notes to Data
+Since Cedar City is not a major city in Utah, there are no air quality monitors inside the city. Instead, I collected the AQI data with a 150-mile range around Cedar City, while in this way I was still not able to get every AQI data for all the parameters. For the AQI data provided here, I only have relatively complete data for each AQI parameter since the 2000s. Using the AQI data prior to 2000 might result in a biased result.
